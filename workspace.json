@@ -1,0 +1,5 @@
+{
+    "name": "azureworkspace",
+    "resource_group": "meddakri_Ubuntu_20.04_MSDE_MD8",
+    "create_workspace": true
+}
